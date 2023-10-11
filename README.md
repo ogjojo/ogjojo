@@ -1,4 +1,4 @@
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ogjojo/ogjojo/static/microsoftparty.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ogjojo/ogjojo/blob/main/static/microsoftparty.gif">
 @ogjojo
 
 `profile.c`
