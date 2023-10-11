@@ -1,13 +1,8 @@
 <div align=center>
-	<img width="400" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/surfingtheweb.gif">
+	<img width="300" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/surfingtheweb.gif">
 </div>
 
 # @ogjojo
-
-</br>
-</br>
-</br>
-</br>
 
 ```c
 #include <stdio.h>
