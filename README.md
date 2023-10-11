@@ -1,4 +1,6 @@
-<img width="400" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/surfingtheweb.gif">
+<div align=center>
+	<img width="400" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/surfingtheweb.gif">
+</div>
 
 # @ogjojo
 
@@ -37,5 +39,7 @@ int main(void){
 	return 0;
 }
 ```
-This is what I call peak performance:
-<img width="400" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/peakperformance.gif">
+
+<div align=center>
+	<img width="400" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/peakperformance.gif">
+</div>
