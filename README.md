@@ -13,9 +13,9 @@ void name(){
 
 void skills(){
 	printf("SKILLS\n");
-	char programming[] = "Python (intermediate), Javascript (intermediate), C (noob)";
+	char code[] = "Python (intermediate), Javascript (intermediate), C (noob)";
 	char languages[] = "Swedish, Finnish, English";
-	printf("Programming : %s\nLanguages : %s\n\n", programming, languages);
+	printf("Programming : %s\nLanguages : %s\n\n", code, languages);
 }
 
 void links(){
