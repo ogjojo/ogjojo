@@ -1,12 +1,12 @@
-<img width="300" alt="GIF" align="right" src="https://github.com/ogjojo/ogjojo/blob/main/static/microsoftparty.gif">
-@ogjojo
+<img width="400" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/surfingtheweb.gif">
+
+# @ogjojo
 
 </br>
 </br>
 </br>
 </br>
 
-`profile.c`
 ```c
 #include <stdio.h>
 
@@ -37,3 +37,5 @@ int main(void){
 	return 0;
 }
 ```
+This is what I call peak performance:
+<img width="400" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/peakperformance.gif">
