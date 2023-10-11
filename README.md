@@ -36,5 +36,5 @@ int main(void){
 ```
 
 <div align=center>
-	<img width="400" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/peakperformance.gif">
+	<img width="250" alt="GIF" align="center" src="https://github.com/ogjojo/ogjojo/blob/main/static/peakperformance.gif">
 </div>
