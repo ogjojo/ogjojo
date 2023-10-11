@@ -1,3 +1,4 @@
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ogjojo/ogjojo/static/microsoftparty.gif">
 @ogjojo
 
 `profile.c`
